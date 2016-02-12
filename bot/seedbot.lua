@@ -230,12 +230,6 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-   ادمین ها  
-    @keraboy
-    @Xxx_mohammad_xxX
-    
-    کاری داشتید در خدمتیم
-    :-)
 ]],
     help_text_realm = [[
 Realm Commands:
